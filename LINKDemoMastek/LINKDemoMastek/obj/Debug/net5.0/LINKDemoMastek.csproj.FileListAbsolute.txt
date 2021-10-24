@@ -1,0 +1,16 @@
+D:\Training2\Dotnet\LINKDemoMastek\LINKDemoMastek\bin\Debug\net5.0\LINKDemoMastek.exe
+D:\Training2\Dotnet\LINKDemoMastek\LINKDemoMastek\bin\Debug\net5.0\LINKDemoMastek.deps.json
+D:\Training2\Dotnet\LINKDemoMastek\LINKDemoMastek\bin\Debug\net5.0\LINKDemoMastek.runtimeconfig.json
+D:\Training2\Dotnet\LINKDemoMastek\LINKDemoMastek\bin\Debug\net5.0\LINKDemoMastek.runtimeconfig.dev.json
+D:\Training2\Dotnet\LINKDemoMastek\LINKDemoMastek\bin\Debug\net5.0\LINKDemoMastek.dll
+D:\Training2\Dotnet\LINKDemoMastek\LINKDemoMastek\bin\Debug\net5.0\ref\LINKDemoMastek.dll
+D:\Training2\Dotnet\LINKDemoMastek\LINKDemoMastek\bin\Debug\net5.0\LINKDemoMastek.pdb
+D:\Training2\Dotnet\LINKDemoMastek\LINKDemoMastek\obj\Debug\net5.0\LINKDemoMastek.csproj.AssemblyReference.cache
+D:\Training2\Dotnet\LINKDemoMastek\LINKDemoMastek\obj\Debug\net5.0\LINKDemoMastek.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training2\Dotnet\LINKDemoMastek\LINKDemoMastek\obj\Debug\net5.0\LINKDemoMastek.AssemblyInfoInputs.cache
+D:\Training2\Dotnet\LINKDemoMastek\LINKDemoMastek\obj\Debug\net5.0\LINKDemoMastek.AssemblyInfo.cs
+D:\Training2\Dotnet\LINKDemoMastek\LINKDemoMastek\obj\Debug\net5.0\LINKDemoMastek.csproj.CoreCompileInputs.cache
+D:\Training2\Dotnet\LINKDemoMastek\LINKDemoMastek\obj\Debug\net5.0\LINKDemoMastek.dll
+D:\Training2\Dotnet\LINKDemoMastek\LINKDemoMastek\obj\Debug\net5.0\ref\LINKDemoMastek.dll
+D:\Training2\Dotnet\LINKDemoMastek\LINKDemoMastek\obj\Debug\net5.0\LINKDemoMastek.pdb
+D:\Training2\Dotnet\LINKDemoMastek\LINKDemoMastek\obj\Debug\net5.0\LINKDemoMastek.genruntimeconfig.cache
