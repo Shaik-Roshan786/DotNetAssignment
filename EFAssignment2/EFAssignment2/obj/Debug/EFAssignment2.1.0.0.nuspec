@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>EFAssignment2</id>
+    <version>1.0.0</version>
+    <authors>EFAssignment2</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0-windows7.0">
+        <dependency id="Microsoft.EntityFrameworkCore.SqlServer" version="5.0.10" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net5.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\shaik15098\source\repos\EFAssignment2\EFAssignment2\bin\Debug\net5.0-windows\EFAssignment2.runtimeconfig.json" target="lib\net5.0-windows7.0\EFAssignment2.runtimeconfig.json" />
+    <file src="C:\Users\shaik15098\source\repos\EFAssignment2\EFAssignment2\bin\Debug\net5.0-windows\EFAssignment2.dll" target="lib\net5.0-windows7.0\EFAssignment2.dll" />
+  </files>
+</package>
