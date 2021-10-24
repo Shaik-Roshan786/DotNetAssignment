@@ -1,0 +1,16 @@
+C:\Users\shaik15098\source\repos\TypeCollectionDemo\TypeCollectionDemo\obj\Debug\net5.0\TypeCollectionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaik15098\source\repos\TypeCollectionDemo\TypeCollectionDemo\obj\Debug\net5.0\TypeCollectionDemo.AssemblyInfoInputs.cache
+C:\Users\shaik15098\source\repos\TypeCollectionDemo\TypeCollectionDemo\obj\Debug\net5.0\TypeCollectionDemo.AssemblyInfo.cs
+C:\Users\shaik15098\source\repos\TypeCollectionDemo\TypeCollectionDemo\obj\Debug\net5.0\TypeCollectionDemo.csproj.CoreCompileInputs.cache
+C:\Users\shaik15098\source\repos\TypeCollectionDemo\TypeCollectionDemo\bin\Debug\net5.0\TypeCollectionDemo.exe
+C:\Users\shaik15098\source\repos\TypeCollectionDemo\TypeCollectionDemo\bin\Debug\net5.0\TypeCollectionDemo.deps.json
+C:\Users\shaik15098\source\repos\TypeCollectionDemo\TypeCollectionDemo\bin\Debug\net5.0\TypeCollectionDemo.runtimeconfig.json
+C:\Users\shaik15098\source\repos\TypeCollectionDemo\TypeCollectionDemo\bin\Debug\net5.0\TypeCollectionDemo.runtimeconfig.dev.json
+C:\Users\shaik15098\source\repos\TypeCollectionDemo\TypeCollectionDemo\bin\Debug\net5.0\TypeCollectionDemo.dll
+C:\Users\shaik15098\source\repos\TypeCollectionDemo\TypeCollectionDemo\bin\Debug\net5.0\ref\TypeCollectionDemo.dll
+C:\Users\shaik15098\source\repos\TypeCollectionDemo\TypeCollectionDemo\bin\Debug\net5.0\TypeCollectionDemo.pdb
+C:\Users\shaik15098\source\repos\TypeCollectionDemo\TypeCollectionDemo\obj\Debug\net5.0\TypeCollectionDemo.dll
+C:\Users\shaik15098\source\repos\TypeCollectionDemo\TypeCollectionDemo\obj\Debug\net5.0\ref\TypeCollectionDemo.dll
+C:\Users\shaik15098\source\repos\TypeCollectionDemo\TypeCollectionDemo\obj\Debug\net5.0\TypeCollectionDemo.pdb
+C:\Users\shaik15098\source\repos\TypeCollectionDemo\TypeCollectionDemo\obj\Debug\net5.0\TypeCollectionDemo.genruntimeconfig.cache
+C:\Users\shaik15098\source\repos\TypeCollectionDemo\TypeCollectionDemo\obj\Debug\net5.0\TypeCollectionDemo.csproj.AssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\shaik15098\source\repos\OOPSDemo\BankLibrary\obj\Debug\net5.0\BankLibrary.csproj.AssemblyReference.cache
+C:\Users\shaik15098\source\repos\OOPSDemo\BankLibrary\obj\Debug\net5.0\BankLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaik15098\source\repos\OOPSDemo\BankLibrary\obj\Debug\net5.0\BankLibrary.AssemblyInfoInputs.cache
+C:\Users\shaik15098\source\repos\OOPSDemo\BankLibrary\obj\Debug\net5.0\BankLibrary.AssemblyInfo.cs
+C:\Users\shaik15098\source\repos\OOPSDemo\BankLibrary\obj\Debug\net5.0\BankLibrary.csproj.CoreCompileInputs.cache
+C:\Users\shaik15098\source\repos\OOPSDemo\BankLibrary\bin\Debug\net5.0\BankLibrary.deps.json
+C:\Users\shaik15098\source\repos\OOPSDemo\BankLibrary\bin\Debug\net5.0\BankLibrary.dll
+C:\Users\shaik15098\source\repos\OOPSDemo\BankLibrary\bin\Debug\net5.0\ref\BankLibrary.dll
+C:\Users\shaik15098\source\repos\OOPSDemo\BankLibrary\bin\Debug\net5.0\BankLibrary.pdb
+C:\Users\shaik15098\source\repos\OOPSDemo\BankLibrary\obj\Debug\net5.0\BankLibrary.dll
+C:\Users\shaik15098\source\repos\OOPSDemo\BankLibrary\obj\Debug\net5.0\ref\BankLibrary.dll
+C:\Users\shaik15098\source\repos\OOPSDemo\BankLibrary\obj\Debug\net5.0\BankLibrary.pdb
