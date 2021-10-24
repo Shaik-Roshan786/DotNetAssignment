@@ -1,0 +1,5 @@
+D:\Training2\Dotnet\DelegateDemoMastek\DelegateDemoMastek\obj\Debug\net5.0\DelegateDemoMastek.csproj.AssemblyReference.cache
+D:\Training2\Dotnet\DelegateDemoMastek\DelegateDemoMastek\obj\Debug\net5.0\DelegateDemoMastek.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training2\Dotnet\DelegateDemoMastek\DelegateDemoMastek\obj\Debug\net5.0\DelegateDemoMastek.AssemblyInfoInputs.cache
+D:\Training2\Dotnet\DelegateDemoMastek\DelegateDemoMastek\obj\Debug\net5.0\DelegateDemoMastek.AssemblyInfo.cs
+D:\Training2\Dotnet\DelegateDemoMastek\DelegateDemoMastek\obj\Debug\net5.0\DelegateDemoMastek.csproj.CoreCompileInputs.cache
