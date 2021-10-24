@@ -1,0 +1,15 @@
+C:\Users\shaik15098\source\repos\ABCCorporation\ABCCorporation\bin\Debug\net5.0\ABCCorporation.exe
+C:\Users\shaik15098\source\repos\ABCCorporation\ABCCorporation\bin\Debug\net5.0\ABCCorporation.deps.json
+C:\Users\shaik15098\source\repos\ABCCorporation\ABCCorporation\bin\Debug\net5.0\ABCCorporation.runtimeconfig.json
+C:\Users\shaik15098\source\repos\ABCCorporation\ABCCorporation\bin\Debug\net5.0\ABCCorporation.runtimeconfig.dev.json
+C:\Users\shaik15098\source\repos\ABCCorporation\ABCCorporation\bin\Debug\net5.0\ABCCorporation.dll
+C:\Users\shaik15098\source\repos\ABCCorporation\ABCCorporation\bin\Debug\net5.0\ref\ABCCorporation.dll
+C:\Users\shaik15098\source\repos\ABCCorporation\ABCCorporation\bin\Debug\net5.0\ABCCorporation.pdb
+C:\Users\shaik15098\source\repos\ABCCorporation\ABCCorporation\obj\Debug\net5.0\ABCCorporation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaik15098\source\repos\ABCCorporation\ABCCorporation\obj\Debug\net5.0\ABCCorporation.AssemblyInfoInputs.cache
+C:\Users\shaik15098\source\repos\ABCCorporation\ABCCorporation\obj\Debug\net5.0\ABCCorporation.AssemblyInfo.cs
+C:\Users\shaik15098\source\repos\ABCCorporation\ABCCorporation\obj\Debug\net5.0\ABCCorporation.csproj.CoreCompileInputs.cache
+C:\Users\shaik15098\source\repos\ABCCorporation\ABCCorporation\obj\Debug\net5.0\ABCCorporation.dll
+C:\Users\shaik15098\source\repos\ABCCorporation\ABCCorporation\obj\Debug\net5.0\ref\ABCCorporation.dll
+C:\Users\shaik15098\source\repos\ABCCorporation\ABCCorporation\obj\Debug\net5.0\ABCCorporation.pdb
+C:\Users\shaik15098\source\repos\ABCCorporation\ABCCorporation\obj\Debug\net5.0\ABCCorporation.genruntimeconfig.cache
